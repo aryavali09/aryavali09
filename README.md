@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Arya 
 
-<!--
-**aryavali09/aryavali09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a high school student passionate about **Digital Technology** and **Cybersecurity**. I love building hands-on projects, from configuring hardware to exploring network security.
 
-Here are some ideas to get you started:
+### 🛠️ What I'm Working On
+- 🌐 Building and troubleshooting **Mesh Networks**.
+- 🚁 Researching **Drone Technology** and cross-border regulations.
+- 💻 Preparing for the **Digital Technologies** program at York University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack & Tools
+- **Networking:** Router Configuration, Mesh Systems, Hardware Troubleshooting.
+- **Languages:** (Add languages you are learning, e.g., Python, Bash, HTML).
+- **Other:** Drone Hardware, Linux (if applicable).
+
+### 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/arya-valizadeh-24718a347/)
