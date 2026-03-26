@@ -2,7 +2,7 @@
 
 I am a high school student passionate about **Cybersecurity**. I love building hands-on projects, from configuring hardware to exploring network security.
 
-### 🛠️ What I'm Working On (Currently)l
+### 🛠️ What I'm Working On (Currently)
 - 🌐 Building and troubleshooting **Meshtastic Networks**
 - 🚁 Researching **Drone Technology** and cross-border regulations
 - 💻 Preparing for the **Digital Technologies** program at York University
